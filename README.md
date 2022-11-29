@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **shahbaz-1234/shahbaz-1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
 
-<a href="https://linkedin.com/in/shahbaz-alam-0058a2233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahbaz-alam-0058a2233" height="30" width="30" /></a>
-
-</p>
 <h1 align="center">👋 Hi, I'm Shahbaz Alam</h1>
 <h3 align="center">I'm a full-stack web developer currently looking for new oportunities</h3>
 
@@ -33,7 +29,11 @@ Here are some ideas to get you started:
   <img stc="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+<p align="center">
 
+connect with me <a href="https://linkedin.com/in/shahbaz-alam-0058a2233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahbaz-alam-0058a2233" height="30" width="30" /></a>
+
+</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kalavhan&theme=tokyonight&show_icons=true" alt="kalavhan" /></p>
 
 ### Blogs posts
